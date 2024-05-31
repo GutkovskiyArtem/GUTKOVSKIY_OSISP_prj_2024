@@ -1,0 +1,3 @@
+/home/artem/CLionProjects/FileManager/cmake-build-debug/CMakeFiles/FileManager.dir
+/home/artem/CLionProjects/FileManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/artem/CLionProjects/FileManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
